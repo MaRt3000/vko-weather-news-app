@@ -1,6 +1,6 @@
 import React from 'react';
 import Nav from './Nav';
-import Weather from './weather';
+import Weather from './Weather';
 import News from './News';
 
 
